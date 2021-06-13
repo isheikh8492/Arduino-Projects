@@ -3,7 +3,7 @@ This is a collection of Arduino projects I worked on when I was learning about A
 ## Projects
 
 
-### [Keyboard Instrument]()
+### [Keyboard Instrument](https://github.com/isheikh8492/Arduino-Projects/tree/main/Keyboard%20Instrument)
 * *Project Type: Arduino IDE(.ino)*
 
 This project involved creating a piano instrument with 4 notes, which had four switches in parallel. In three branches we connected a resistor in series with the switch and in the fourth one a wire connected directly to power.
