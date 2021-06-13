@@ -15,7 +15,7 @@ This project involved making a motorized pinwheel. In other words, we wanted a m
 
 Another point was that we had to control the battery and the motor (high voltage) with low voltage (outputs from the Arduino’s pins). In order to achieve it, a transister. A transistor consists in three “parts”, each one connected to the protoboard: the gate, the source and the drain. When low voltage (the one that provides Arduino’s pins) hits the gate, it closes the circuit between the source and the drain allowing you to turn on motors, batteries… and control them.
 
-### [Knock Lock]()
+### [Knock Lock](https://github.com/isheikh8492/Arduino-Projects/tree/main/Knock%20Lock)
 * *Project Type: Arduino IDE(.ino)*
 
 This project involved creating a lock system that only can be unlocked by knocking 3 times.
