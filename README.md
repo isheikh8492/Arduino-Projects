@@ -8,7 +8,7 @@ This is a collection of Arduino projects I worked on when I was learning about A
 
 This project involved creating a piano instrument with 4 notes, which had four switches in parallel. In three branches we connected a resistor in series with the switch and in the fourth one a wire connected directly to power.
 
-### [Motorized Pinwheel]()
+### [Motorized Pinwheel](https://github.com/isheikh8492/Arduino-Projects/tree/main/Motorized%20Pinwheel)
 * *Project Type: Arduino IDE(.ino)*
 
 This project involved making a motorized pinwheel. In other words, we wanted a motor to spin. The first issue was that the motor needed more current and voltage than the maximum dispensable by the Arduino’s output pins. To solve it, a battery of 9V was used.
